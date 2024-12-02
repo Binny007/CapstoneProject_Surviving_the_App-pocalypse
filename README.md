@@ -38,7 +38,8 @@
 
 
 ### Tasks:
-       **Data Preprocessing**: Clean and preprocess the dataset, handling missing values and transforming categorical
+       ### Data Preprocessing:
+             Clean and preprocess the dataset, handling missing values and transforming categorical
       variables into numerical ones as needed.
        **Exploratory Data Analysis**: Perform an exploratory analysis of the dataset to understand the distribution of variables
       and their relationship with app churn.
