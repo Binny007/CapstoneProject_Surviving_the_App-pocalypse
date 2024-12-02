@@ -4,12 +4,12 @@
 
 # Capstone project: Surviving the App-pocalypse
 
-            "Objective":
+            ==> Objective:
                   The goal of this capstone project is to analyze app churn on the Google Play Store and build a predictive model
                   using Survival Analysis and Cox Proportional Hazards Regression. We will identify the factors that contribute 
                   to app churn and estimate the survival probability of apps on the Google Play Store.
             
-            # Background:
+            ==> Background:
                   The Google Play Store is a massive marketplace for Android apps, with millions of applications available for 
                   download. App developers are continuously trying to engage users and retain them for as long as possible.
                   However, app churn, defined as apps no longer being updated is an issue for the Play Store with lower-quality
@@ -20,7 +20,7 @@
                   can help developers make data-driven decisions to improve their apps and marketing strategies.
             
             
-            # Data:
+            ==> Data:
                   The dataset for this project is provided, containing information on various apps available on the Google Play Store,
                   and it included the following variables:
             
@@ -40,7 +40,7 @@
                  * Android Version
             
             
-            # Tasks:
+            ==> Tasks:
                     1. Data Preprocessing:
                          --> Clean and preprocess the dataset, handling missing values and transforming categorical variables into 
                              numerical ones as needed.
